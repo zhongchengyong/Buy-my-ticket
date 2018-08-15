@@ -1,3 +1,5 @@
+# IDE
+.idea/
 # Prerequisites
 *.d
 
@@ -6,8 +8,8 @@
 *.lo
 *.o
 *.obj
-./cmake-build-debug
-./build
+cmake-build-debug/
+build/
 
 # Precompiled Headers
 *.gch
