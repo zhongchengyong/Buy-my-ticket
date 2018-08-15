@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Buy_my_ticket.dir/main.cpp.o CMakeFiles/Buy_my_ticket.dir/src/MyTest.cpp.o  -o Buy_my_ticket 
